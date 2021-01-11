@@ -1,0 +1,11 @@
+Eaton-Company-CODE: CSGS
+Eaton-Origin: STANDARDH5
+Content-Type: application/json; charset=UTF-8
+url: https://pre.guan.yatonghui.com
+Uc: guan_pre_uc
+Work: guan_pre
+Host: rm-wz98ju5jwvu87p8l86o.mysql.rds.aliyuncs.com
+User: local_develop
+Passwd: Ytonghui&!local110
+l_phone: 18000000023  #项目负责人（全功能账号）
+

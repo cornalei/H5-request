@@ -1,0 +1,250 @@
+2019-07-15 14:26:29,710 run.py[line:34] INFO start run test case...
+2019-07-15 14:26:29,710 test_demo.py[line:7] INFO ====test_sound====
+2020-10-25 15:12:14,848 base.py[line:29] INFO 登录成功
+2020-10-25 15:15:32,239 base.py[line:30] INFO 登录成功
+2020-10-25 15:18:12,477 base.py[line:29] INFO 登录成功
+2020-10-25 15:18:12,621 base.py[line:39] INFO ----
+2020-10-25 15:19:51,411 base.py[line:30] INFO 登录成功
+2020-10-25 15:20:28,246 base.py[line:30] INFO 登录成功
+2020-10-25 15:20:28,247 test_record.py[line:31] INFO test
+2020-10-25 15:20:29,030 base.py[line:30] INFO 登录成功
+2020-10-25 15:30:46,962 run.py[line:34] INFO start run test case...
+2020-10-25 15:30:47,839 base.py[line:28] INFO 登录成功
+2020-10-25 15:30:47,839 test_record.py[line:31] INFO test
+2020-10-25 15:30:48,666 base.py[line:28] INFO 登录成功
+2020-10-25 17:22:45,079 base.py[line:28] INFO 登录成功
+2020-10-25 17:22:45,080 test_record.py[line:31] INFO test
+2020-10-25 17:22:45,885 base.py[line:28] INFO 登录成功
+2020-10-25 17:23:23,540 base.py[line:28] INFO 登录成功
+2020-10-25 17:23:23,540 test_record.py[line:32] INFO test
+2020-10-25 17:23:24,331 base.py[line:28] INFO 登录成功
+2020-10-25 17:23:39,137 base.py[line:28] INFO 登录成功
+2020-10-25 17:23:39,137 test_record.py[line:32] INFO test
+2020-10-25 17:23:39,920 base.py[line:28] INFO 登录成功
+2020-10-25 17:25:55,353 base.py[line:28] INFO 登录成功
+2020-10-25 17:25:55,354 test_record.py[line:32] INFO test
+2020-10-25 17:25:56,170 base.py[line:28] INFO 登录成功
+2020-10-25 17:44:32,362 base.py[line:28] INFO 登录成功
+2020-10-25 18:09:11,484 base.py[line:31] INFO 外场工作台登录成功
+2020-10-25 18:09:12,423 base.py[line:44] INFO 内场工作台登录成功
+2020-10-25 18:12:00,565 base.py[line:34] INFO 外场工作台登录成功
+2020-10-25 18:12:02,177 base.py[line:50] INFO 内场工作台登录成功
+2020-10-25 18:18:29,998 base.py[line:33] INFO 外场工作台登录成功
+2020-10-25 18:22:48,734 base.py[line:33] INFO 外场工作台登录成功
+2020-10-25 18:22:49,173 test_record.py[line:8] INFO 报备成功
+2020-10-25 18:41:32,612 base.py[line:33] INFO 外场工作台登录成功
+2020-10-25 18:41:33,584 base.py[line:49] INFO 内场工作台登录成功
+2020-10-25 18:43:20,698 base.py[line:33] INFO 外场工作台登录成功
+2020-10-25 18:43:21,116 test_record.py[line:9] INFO 报备成功
+2020-12-15 17:42:29,467 base.py[line:32] INFO 外场工作台登录成功
+2020-12-15 17:42:30,580 base.py[line:48] INFO 内场工作台登录成功
+2020-12-15 18:04:12,645 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:05:41,609 base.py[line:32] INFO 外场工作台登录成功
+2020-12-15 18:06:48,579 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:06:49,447 base.py[line:32] INFO 外场工作台登录成功
+2020-12-15 18:06:49,761 test_record.py[line:9] INFO 报备成功
+2020-12-15 18:07:45,247 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:20:15,365 base.py[line:33] INFO 外场工作台登录成功
+2020-12-15 18:20:16,432 base.py[line:49] INFO 内场工作台登录成功
+2020-12-15 18:23:00,806 base.py[line:34] INFO 外场工作台登录成功
+2020-12-15 18:23:01,876 base.py[line:50] INFO 内场工作台登录成功
+2020-12-15 18:24:10,902 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:27:24,447 base.py[line:33] INFO 外场工作台登录成功
+2020-12-15 18:27:25,483 base.py[line:49] INFO 内场工作台登录成功
+2020-12-15 18:27:34,634 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:30:18,845 base.py[line:36] INFO 外场工作台登录成功
+2020-12-15 18:30:19,857 base.py[line:52] INFO 内场工作台登录成功
+2020-12-15 18:30:31,975 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:31:14,216 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:32:18,004 record.py[line:17] INFO 登录账号为13700001111
+2020-12-15 18:32:18,890 base.py[line:36] INFO 外场工作台登录成功
+2020-12-15 18:35:09,120 base.py[line:37] INFO 外场工作台登录成功
+2020-12-15 18:35:10,200 base.py[line:53] INFO 内场工作台登录成功
+2020-12-16 10:53:06,102 base.py[line:37] INFO 外场工作台登录成功
+2020-12-16 10:53:07,129 base.py[line:53] INFO 内场工作台登录成功
+2020-12-16 10:53:46,241 base.py[line:37] INFO 外场工作台登录成功
+2020-12-16 10:53:47,295 base.py[line:53] INFO 内场工作台登录成功
+2020-12-16 11:06:28,446 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:07:21,013 record.py[line:17] INFO 登录账号为13700001111
+2020-12-16 11:07:46,781 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:21:57,882 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:21:59,070 base.py[line:53] INFO 未提取到项目ID，接口返回{'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608088917870, 'data': {'select': None, 'defaultPrj': '1310582679990620162'}}
+2020-12-16 11:21:59,073 base.py[line:54] INFO 内场工作台登录成功
+2020-12-16 11:22:40,427 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:22:43,080 base.py[line:53] INFO 未提取到项目ID，接口返回{'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608088961702, 'data': {'select': None, 'defaultPrj': '1310582679990620162'}}
+2020-12-16 11:24:39,646 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:24:40,404 base.py[line:35] INFO 外场工作台登录成功
+2020-12-16 11:27:04,739 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:27:05,545 base.py[line:36] INFO 外场工作台登录成功
+2020-12-16 11:28:47,206 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:28:48,090 base.py[line:36] INFO 外场工作台登录成功
+2020-12-16 11:28:56,113 baseView.py[line:53] ERROR 查询出错，请排查问题。
+2020-12-16 11:29:16,493 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:29:17,305 base.py[line:36] INFO 外场工作台登录成功
+2020-12-16 11:31:08,840 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:31:09,654 base.py[line:36] INFO 外场工作台登录成功
+2020-12-16 11:34:22,139 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:34:23,314 base.py[line:33] INFO 外场工作台登录成功
+2020-12-16 11:34:23,366 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:34:24,312 base.py[line:60] ERROR 未提取到项目ID，项目列表接口返回{'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608089663122, 'data': {'select': None, 'defaultPrj': '1310582679990620162'}}
+2020-12-16 11:47:24,641 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:47:26,074 base.py[line:33] INFO 外场工作台登录成功
+2020-12-16 11:47:26,110 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 11:47:27,157 base.py[line:61] ERROR 未提取到项目ID，项目列表接口返回{'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608090445957, 'data': {'select': None, 'defaultPrj': '1310582679990620162'}}
+2020-12-16 12:02:13,403 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 12:02:14,859 base.py[line:33] INFO 外场工作台登录成功
+2020-12-16 12:02:19,555 baseView.py[line:59] INFO 登录账号为18827506187
+2020-12-16 12:02:20,606 base.py[line:62] INFO 内场工作台登录成功
+2020-12-16 14:30:54,897 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:30:54,931 baseView.py[line:53] ERROR 查询出错，请排查问题!
+2020-12-16 14:32:03,091 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:32:03,105 baseView.py[line:53] ERROR 查询出错，请排查问题!
+2020-12-16 14:34:27,723 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:38:03,299 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:38:04,316 base.py[line:22] INFO {'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608100682878, 'data': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTA3NzkwODIsInVzZXIiOiJ7XCJjb21wYW55Q29kZVwiOlwiQ1NHU1wiLFwiY29tcGFueUlkXCI6MjAxOTAwMDc4NzEyMDEyOTEyLFwiaWRcIjo1OTYxMzk3NTExMzIwMDAwMixcIm9yZ0lkXCI6MjAxOTAwMDc4NzEyMDEyOTEyLFwidHlwZVwiOjEsXCJ1c2VySWRcIjo1OTYxMzk3NTExMzIwMDAwMX0ifQ.XcHyII9chq1iaTsMZ6cbLvDgO60Q2XOGjArM413E7J8'}
+2020-12-16 14:38:05,166 base.py[line:34] INFO 外场工作台登录成功
+2020-12-16 14:38:15,660 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:38:16,209 base.py[line:22] INFO {'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608100694924, 'data': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTA3NzkwOTQsInVzZXIiOiJ7XCJjb21wYW55Q29kZVwiOlwiQ1NHU1wiLFwiY29tcGFueUlkXCI6MjAxOTAwMDc4NzEyMDEyOTEyLFwiaWRcIjo1OTYxMzk3NTExMzIwMDAwMixcIm9yZ0lkXCI6MjAxOTAwMDc4NzEyMDEyOTEyLFwidHlwZVwiOjEsXCJ1c2VySWRcIjo1OTYxMzk3NTExMzIwMDAwMX0ifQ.fW462P0-xbi3vUd8BlTR29UO6HNCSzQ6C4XargmQVDM'}
+2020-12-16 14:38:16,793 base.py[line:34] INFO 外场工作台登录成功
+2020-12-16 14:39:23,357 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:39:24,210 base.py[line:33] INFO 外场工作台登录成功
+2020-12-16 14:44:53,750 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:44:54,614 base.py[line:33] INFO 外场工作台登录成功
+2020-12-16 14:45:38,902 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 14:45:39,745 base.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:06:38,922 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:06:39,863 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:06:40,324 test_record.py[line:13] INFO 报备成功
+2020-12-16 15:09:03,930 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:09:04,773 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:09:05,119 test_record.py[line:13] ERROR 报备失败{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608102543825, 'data': None}
+2020-12-16 15:09:48,186 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:09:49,103 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:09:49,455 test_record.py[line:13] ERROR 报备失败{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608102588157, 'data': None}
+2020-12-16 15:10:07,403 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:10:08,366 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:10:08,736 test_record.py[line:13] ERROR 报备失败{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608102607442, 'data': None}
+2020-12-16 15:10:19,856 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:10:20,684 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:10:21,035 test_record.py[line:13] ERROR 报备失败{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608102619741, 'data': None}
+2020-12-16 15:10:49,226 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:10:50,079 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:11:26,275 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:11:27,090 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:11:27,401 test_record.py[line:12] ERROR 报备失败{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608102686110, 'data': None}
+2020-12-16 15:11:51,114 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:11:51,971 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:11:52,300 test_record.py[line:12] ERROR 报备失败,响应内容为{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608102711008, 'data': None}
+2020-12-16 15:24:24,132 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:24:24,985 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:24:25,410 test_record.py[line:12] ERROR 报备失败,响应内容为{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608103464115, 'data': None}
+2020-12-16 15:26:07,197 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:26:08,102 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:26:08,507 test_record.py[line:12] ERROR 报备失败,响应内容为{'code': 1004, 'msg': '请求头幂等性标识idea-mark为空', 'success': False, 'timestamp': 1608103567211, 'data': None}
+2020-12-16 15:26:39,435 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:26:40,286 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:27:43,246 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:27:44,022 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:28:25,291 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:28:26,095 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:30:38,899 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:30:39,715 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:33:01,358 baseView.py[line:60] INFO 登录账号为13700001111
+2020-12-16 15:33:02,166 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:34:22,312 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:34:23,143 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:34:49,565 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:34:50,363 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:35:03,033 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:35:03,863 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:36:35,826 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:36:36,699 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:37:26,961 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:37:27,758 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:50:39,695 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:50:40,515 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:50:41,221 test_record.py[line:12] ERROR 报备失败,响应内容为{'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608105039914, 'data': None}
+2020-12-16 15:51:08,209 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:51:09,029 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:51:09,741 test_record.py[line:12] ERROR 报备失败,响应内容为{'code': 0, 'msg': 'OK', 'success': True, 'timestamp': 1608105068432, 'data': None}
+2020-12-16 15:51:19,118 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:51:19,994 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:51:20,719 test_record.py[line:14] INFO 报备成功
+2020-12-16 15:51:44,726 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:51:45,591 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:51:46,325 test_record.py[line:13] INFO 报备成功
+2020-12-16 15:53:42,264 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:53:43,117 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:54:04,044 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:54:04,845 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:55:18,948 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:55:19,696 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:56:47,903 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:56:48,684 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:57:18,365 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:57:19,359 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:57:39,870 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 15:57:40,725 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 15:59:24,182 baseView.py[line:60] INFO 登录账号为13700001111
+2020-12-16 15:59:25,014 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:00:28,769 baseView.py[line:60] INFO 登录账号为13700001111
+2020-12-16 16:00:29,506 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:01:36,095 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:01:36,958 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:03:00,121 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:03:00,848 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:03:06,044 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:03:06,798 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:03:07,481 test_record.py[line:13] INFO 报备成功
+2020-12-16 16:04:41,661 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:04:42,494 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:06:02,136 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:06:07,097 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:06:37,196 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:06:38,026 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:07:02,982 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:07:03,811 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:07:04,462 test_record.py[line:13] INFO 报备成功
+2020-12-16 16:09:43,178 run.py[line:34] INFO start run test case...
+2020-12-16 16:09:43,756 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:09:45,570 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:09:46,669 test_record.py[line:13] INFO 报备成功
+2020-12-16 16:51:38,781 run.py[line:34] INFO start run test case...
+2020-12-16 16:52:45,518 run.py[line:34] INFO start run test case...
+2020-12-16 16:52:45,613 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:52:46,413 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:52:47,133 test_record.py[line:13] INFO 报备成功
+2020-12-16 16:54:00,468 run.py[line:34] INFO start run test case...
+2020-12-16 16:54:42,288 run.py[line:34] INFO start run test case...
+2020-12-16 16:54:42,360 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:54:43,229 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:54:43,930 test_record.py[line:13] INFO 报备成功
+2020-12-16 16:55:44,184 run.py[line:34] INFO start run test case...
+2020-12-16 16:55:44,291 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 16:55:45,163 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 16:55:45,860 test_record.py[line:13] INFO 报备成功
+2020-12-16 16:59:55,331 run.py[line:34] INFO start run test case...
+2020-12-16 17:01:00,013 run.py[line:34] INFO start run test case...
+2020-12-16 17:01:00,099 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 17:01:00,985 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 17:01:01,776 test_record.py[line:13] INFO 报备成功
+2020-12-16 17:02:48,204 run.py[line:35] INFO start run test case...
+2020-12-16 17:02:48,355 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 17:02:49,185 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 17:02:49,880 test_record.py[line:13] INFO 报备成功
+2020-12-16 17:03:04,241 run.py[line:35] INFO start run test case...
+2020-12-16 17:03:04,281 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 17:03:05,102 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 17:03:05,795 test_record.py[line:13] INFO 报备成功
+2020-12-16 17:05:51,772 run.py[line:34] INFO start run test case...
+2020-12-16 17:05:51,872 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 17:05:52,784 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 17:05:53,491 test_record.py[line:13] INFO 报备成功
+2020-12-16 17:06:05,867 run.py[line:34] INFO start run test case...
+2020-12-16 17:06:05,911 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 17:06:06,703 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 17:06:07,406 test_record.py[line:13] INFO 报备成功
+2020-12-16 17:37:52,634 run.py[line:34] INFO start run test case...
+2020-12-16 17:37:52,723 baseView.py[line:59] INFO 登录账号为13700001111
+2020-12-16 17:37:53,615 common.py[line:33] INFO 外场工作台登录成功
+2020-12-16 17:37:54,371 test_record.py[line:13] INFO 报备成功
