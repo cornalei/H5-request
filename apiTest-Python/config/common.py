@@ -1,8 +1,8 @@
-import logging
+import logging,os
 import logging.config
 from config.baseView import BaseView
 
-CON_LOG='../config/log.conf'
+CON_LOG=os.path.abspath(os.path.join(os.path.dirname(__file__), './log.conf'))
 logging.config.fileConfig(CON_LOG)
 logging=logging.getLogger()
 class Common(BaseView):

@@ -1,4 +1,4 @@
-from locust import HttpLocust,TaskSet,task
+from locust import HttpUser,TaskSet,task
 
 class UserBehavior(TaskSet):
     def on_start(self):
@@ -14,8 +14,8 @@ class UserBehavior(TaskSet):
         #取余运算循环遍历参数
         self.users_index=(self.users_index+1)%len(self.locust.id)
 
-class WebsiteUser(HttpLocust):
-    task_set = UserBehavior
+class WebsiteUser(HttpUser):
+    task_create = UserBehavior
     #参数配置
     id=[1,2]
     min_wait = 3000

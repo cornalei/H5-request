@@ -1,0 +1,3 @@
+[32mINFO    [0m root:baseView.py:61 登录账号为13700001111
+[32mINFO    [0m root:common.py:33 外场工作台登录成功
+[32mINFO    [0m root:test_record.py:13 报备成功

@@ -1,7 +1,9 @@
-import requests,time,json,yaml,MySQLdb,logging
+import requests,time,json,yaml,MySQLdb,logging,os
 
 class BaseView(object):
-    file = open('../config/data.yaml', 'r')
+    path=os.path.abspath(os.path.join(os.path.dirname(__file__), './data.yaml'))
+    file = open(path, 'r')
+    # file = open('./data.yaml', 'r')
     data = yaml.load(file, Loader=yaml.FullLoader)
     #接口信息参数
     url=data['url']
@@ -39,7 +41,7 @@ class BaseView(object):
         return date
 
     def Dbconnect(self):
-        self.DbCon=MySQLdb.connect(host=self.host,user=self.user,passwd=self.passwd,db=self.db,port=3306,charset='utf-8')
+        self.DbCon=MySQLdb.connect(host=self.host,user=self.user,passwd=self.passwd,db=self.db,port=3306,charset='utf8')
         # self.Dbcursor=self.DbCon.cursor(cursor=DbMysql.cursors.DictCursor)
         self.Dbcursor=self.DbCon.cursor()
 
